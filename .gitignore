@@ -1,6 +1,7 @@
 # Secrets
 .env
 
+
 # Python
 __pycache__/
 *.py[cod]
@@ -8,6 +9,7 @@ __pycache__/
 .venv/
 venv/
 env/
+scaler_env
 
 # Gradio
 .gradio/
